@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Liam 👋
 
-<!--
-**liamalexirwin/liamalexirwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+IT Support & Networking professional in training based in Peterborough, ON.
+Currently completing the Google IT Support Professional Certificate 
+and studying for CompTIA Network+.
 
-Here are some ideas to get you started:
+Passionate about networking, cybersecurity, and hands-on lab work.
+Bilingual: English (fluent) | French (semi-fluent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Windows](https://img.shields.io/badge/Windows-11-blue)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-green)
+![VirtualBox](https://img.shields.io/badge/Oracle-VirtualBox-lightgrey)
+
+## 📜 Certifications
+- ✅ Google IT Support Professional Certificate (2026)
+- 🔄 CompTIA Network+ — In Progress
+- ✅ Electrical Techniques Diploma — Fleming College
+
+## 🔭 Current Projects
+- Virtual Network Lab — VirtualBox dual VM environment
+- Cisco Packet Tracer Network Simulations
+- SSH configuration between Ubuntu and Windows VMs
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Irwin-blue)](your-linkedin-url-here)
